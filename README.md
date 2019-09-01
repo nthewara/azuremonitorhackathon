@@ -1,0 +1,2 @@
+# azuremonitorhackathon
+Azure Monitor Hackathon
